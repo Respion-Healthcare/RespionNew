@@ -5,19 +5,6 @@ const nextConfig: NextConfig = {
 
   async redirects() {
     return [
-      // ✅ WWW → Non-WWW
-      {
-        source: "/:path*",
-        has: [
-          {
-            type: "host",
-            value: "www.respion.in",
-          },
-        ],
-        destination: "https://respion.in/:path*",
-        permanent: true,
-      },
-
       // ✅ Old Author URLs
       {
         source: "/author/:slug*",
