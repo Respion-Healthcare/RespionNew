@@ -36,8 +36,8 @@ export default function ShippingPage() {
                 contactPoint: {
                   "@type": "ContactPoint",
                   contactType: "Customer Support",
-                  email: "respion.in@gmail.com",
-                  telephone: "+91-9148733700",
+                  email: "respionhealthcare@gmail.com",
+                  telephone: "+91-9937144165",
                   areaServed: "IN",
                 },
               },
@@ -135,8 +135,8 @@ export default function ShippingPage() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">
                 📩 Contact Information
               </h2>
-              <p><strong>Email:</strong> respion.in@gmail.com</p>
-              <p><strong>Phone:</strong> +91 9148733700</p>
+              <p><strong>Email:</strong> respionhealthcare@gmail.com</p>
+              <p><strong>Phone:</strong> +91 9937144165</p>
               <p><strong>Website:</strong> https://respion.in</p>
               <p className="mt-4 text-sm text-gray-600">
                 For vendor-specific shipping inquiries, please refer to your order confirmation details.

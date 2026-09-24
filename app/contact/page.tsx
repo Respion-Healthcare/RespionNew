@@ -89,11 +89,11 @@ export default function ContactPage() {
 
                 <div>
                   <h2 className="text-xl font-semibold text-gray-900 mb-2">
-                    Address
+                    Corp. Office Address
                   </h2>
 
                   <p className="text-gray-600 leading-relaxed">
-                    702, 13th Cross Rd, 1st Phase,
+                    #44, 1st Phase,
                     <br />
                     J.P Nagar, Bengaluru,
                     <br />
@@ -118,10 +118,12 @@ export default function ContactPage() {
                   </p>
 
                   <a
-                    href="tel:+919148733700"
+                    href="tel:+919937144165"
                     className="text-[#0391B6] font-semibold text-lg hover:underline"
                   >
-                    +91 9148733700
+                    +91 9937144165
+                    <p>+91 9937000606</p>
+                  
                   </a>
                 </div>
               </div>
@@ -142,10 +144,10 @@ export default function ContactPage() {
                   </p>
 
                   <a
-                    href="mailto:respion.in@gmail.com"
+                    href="mailto:respionhealthcare@gmail.com"
                     className="text-[#0391B6] font-semibold hover:underline break-all"
                   >
-                    respion.in@gmail.com
+                    respionhealthcare@gmail.com
                   </a>
                 </div>
               </div>

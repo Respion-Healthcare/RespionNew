@@ -121,8 +121,8 @@ export default function AboutPage() {
               name: "Respion",
               image: "https://respion.in/images/aboutus.webp",
               url: "https://respion.in",
-              telephone: "+91-9148733700",
-              email: "respion.in@gmail.com",
+              telephone: "+91-9937144165",
+              email: "respionhealthcare@gmail.com",
               description:
                 "Respion provides CPAP, BiPAP, oxygen concentrators and respiratory healthcare solutions across India.",
             }),
@@ -251,7 +251,7 @@ export default function AboutPage() {
               <div className="absolute -inset-5 bg-gradient-to-tr from-blue-200/60 via-cyan-100/50 to-white rounded-3xl lg:rounded-3xl lg:rounded-[35px] p-4 sm:p-6 lg:p-8 p-4 sm:p-6 lg:p-8 blur-3xl opacity-80"></div>
 
               <div className="absolute top-4 sm:p-5 left-5 z-20 bg-white/90 backdrop-blur-xl text-[#0391B6] px-5 py-2 rounded-full shadow-xl text-xs font-bold border border-white">
-                Trusted Since 2025
+                Trusted Since 2021
               </div>
 
               <div className="relative h-[320px] sm:h-[420px] md:h-[520px] lg:h-[560px] rounded-[28px] sm:rounded-3xl lg:rounded-3xl lg:rounded-[35px] p-4 sm:p-6 lg:p-8 p-4 sm:p-6 lg:p-8 overflow-hidden">
@@ -465,7 +465,7 @@ export default function AboutPage() {
 
                      {/* CALL */}
                   <a
-                    href="tel:+919148733700"
+                    href="tel:+919937144165"
                     className="block rounded-2xl bg-gradient-to-r from-blue-50 to-cyan-50 p-4 sm:p-5 hover:shadow-lg hover:-translate-y-1 transition duration-300"
                   >
 
@@ -474,7 +474,10 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-xl font-black text-gray-900 hover:text-[#0391B6] transition">
-                      +91 9148733700
+                      +91 9937144165
+                    </p>
+                    <p className="text-xl font-black text-gray-900 hover:text-[#0391B6] transition">
+                      +91 9937000606
                     </p>
 
                   </a>
@@ -486,7 +489,7 @@ export default function AboutPage() {
 
                      {/* EMAIL */}
                   <a
-                    href="mailto:respion.in@gmail.com"
+                    href="mailto:respionhealthcare@gmail.com"
                     className="block rounded-2xl bg-gradient-to-r from-blue-50 to-cyan-50 p-4 sm:p-5 hover:shadow-lg hover:-translate-y-1 transition duration-300"
                   >
 
@@ -495,7 +498,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-base font-semibold text-gray-800 break-all hover:text-[#0391B6] transition">
-                      respion.in@gmail.com
+                      respionhealthcare@gmail.com
                     </p>
 
                   </a>
@@ -508,7 +511,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-sm sm:text-base text-gray-700 leading-relaxed">
-                      702, 13th Cross Rd, 1st Phase,
+                      #44, 6th Phase,
                       <br />
                       J.P Nagar, Bengaluru,
                       <br />

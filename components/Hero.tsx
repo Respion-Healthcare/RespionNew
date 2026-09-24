@@ -20,32 +20,16 @@ const heroSlides = [
     href: "/products/cpap-machine/airstart-10-with-humidification-and-tube",
   },
   {
-    image: "/images/homebanners/mask1.jpg",
+    image: "/images/homebanners/ban4.png",
     href: "/products/nasal-mask/airfit-n20-classic",
   },
   {
-    image: "/images/homebanners/bipap1.jpg",
+    image: "/images/homebanners/ban5.png",
     href: "/products/bipap-machine/lumis-100-vpap-st",
   },
   {
-    image: "/images/homebanners/bipap2.jpg",
+    image: "/images/homebanners/ban6.png",
     href: "/products/bipap-machine/resmed-lumis-150",
-  },
-  {
-    image: "/images/homebanners/bipap3.jpg",
-    href: "/products/bipap-machine/philips-bipap-pro",
-  },
-  {
-    image: "/images/homebanners/mask4.jpg",
-    href: "/products/full-face-mask/resmed-airfit-f20-full-face-mask",
-  },
-  {
-    image: "/images/homebanners/cpap3.jpg",
-    href: "/products/cpap-machine/philips-dreamstation",
-  },
-  {
-    image: "/images/homebanners/mask5.jpg",
-    href: "/products/full-face-mask/philips-amara",
   },
 ]
 

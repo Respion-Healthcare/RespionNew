@@ -178,8 +178,8 @@ export default function TermsPage() {
             </h2>
             <p>
               <strong>Respion</strong> <br />
-              Email: respion.in@gmail.com <br />
-              Phone: +91 9148733700 <br />
+              Email: respionhealthcare@gmail.com <br />
+              Phone: +91 9937144165 <br />
               Website: https://respion.in <br />
               Working Hours: Monday – Friday (09:00 AM – 06:00 PM)
             </p>

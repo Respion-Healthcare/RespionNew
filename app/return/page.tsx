@@ -96,9 +96,10 @@ export default function ReturnPolicyPage() {
           </p>
 
           <div className="mt-3">
-            <p>Email: respion.in@gmail.com</p>
-            <p>Phone: +91 9148733700</p>
-          </div>
+            <p>Email: respionhealthcare@gmail.com</p>
+            <p>Phone: +91 9937144165</p>
+            <p>Phone: +91 9937000606</p>
+            </div>
         </section>
 
       </div>

@@ -41,7 +41,7 @@ export default function Footer() {
             <div className="flex items-center gap-5 pt-2">
 
               <a
-                href="https://www.facebook.com/profile.php?id=61576509153350"
+                href="https://www.facebook.com/fb-answers/respion-healthcare-pvt-ltd-bhubaneswar-oxygen-concentrator-resmed-auto-cpap-bipap-home-sleep-study-reviews/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Respion Facebook"
@@ -61,7 +61,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://www.instagram.com/respion_official/"
+                href="https://www.instagram.com/respionhealthcare_official/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Respion Instagram"
@@ -218,7 +218,7 @@ export default function Footer() {
               </a>
 
               <p className="text-gray-700 leading-6">
-                702, 13th Cross Rd, 1st Phase, J. P. Nagar,
+                #44, 6th Phase, J. P. Nagar,
                 Bengaluru, Karnataka 560078
               </p>
             </div>
@@ -323,6 +323,60 @@ export default function Footer() {
               </p>
             </div>
 
+{/* ================= Mumbai ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Mumbai
+              </p>
+
+              <a
+                href="tel:7077718891"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                7077720507
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                House No 36, Ground Floor, Andheri East, Mumbai, Maharashtra, 400069
+              </p>
+            </div>
+
+{/* ================= Delhi ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Delhi
+              </p>
+
+              <a
+                href="tel:7077720503"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                7077720503
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                Laxminagar, Near Sachdeva Juice Corner, New Delhi, Delhi 110092
+              </p>
+            </div>
+
+            {/* ================= Visakhapatnam ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Visakhapatnam
+              </p>
+
+              <a
+                href="tel:7077720504"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                7077720504
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                Visakhapatnam, HB Colony Rd, Andhra Pradesh 530022
+              </p>
+            </div>
+
           </div>
 
         </div>
@@ -334,7 +388,7 @@ export default function Footer() {
           BOTTOM BAR
       ====================================================== */}
       <div className="border-t border-[#BFEAF3] py-4 px-5 text-center text-xs sm:text-sm text-gray-500 bg-[#f3f8ff]">
-        © 2025 Respion. All Rights Reserved.
+        © 2015 Respion. All Rights Reserved.
       </div>
 
     </footer>

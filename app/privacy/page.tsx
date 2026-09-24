@@ -36,8 +36,8 @@ export default function PrivacyPage() {
                 contactPoint: {
                   "@type": "ContactPoint",
                   contactType: "Customer Support",
-                  email: "respion.in@gmail.com",
-                  telephone: "+91-9148733700",
+                  email: "respionhealthcare@gmail.com",
+                  telephone: "+91-9937144165",
                   areaServed: "IN",
                 },
               },
@@ -195,9 +195,9 @@ export default function PrivacyPage() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">
                 📩 Grievance Officer
               </h2>
-              <p><strong>Company:</strong> Respion</p>
-              <p><strong>Email:</strong> respion.in@gmail.com</p>
-              <p><strong>Phone:</strong> +91 9148733700</p>
+              <p><strong>Company:</strong>Respion Healthcare</p>
+              <p><strong>Email:</strong> respionhealthcare@gmail.com</p>
+              <p><strong>Phone:</strong> +91 9937144165</p>
               <p><strong>Working Hours:</strong> Monday – Friday (09:00 AM – 06:00 PM)</p>
               <p><strong>Website:</strong> https://respion.in</p>
             </section>

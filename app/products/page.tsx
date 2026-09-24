@@ -134,12 +134,12 @@ export default function ProductsPage() {
     {
       name: "BiPAP",
       href: "/products/bipap-machine",
-      image: "/images/Devices/Bipap Machiene/BMC G3 B25vt BIPAP Device with Humidifier and Mask2.webp",
+      image: "/images/Devices/Resmed Lumis™ 150 VPAP ST/2.webp",
     },
     {
       name: "Oxygen",
       href: "/products/oxygen-concentrator",
-      image: "/images/Oc/evox1.jpg",
+      image: "/images/oxygen-concentrator-resmed.jpg",
     },
     {
       name: "Masks",
@@ -159,7 +159,7 @@ export default function ProductsPage() {
     {
       name: "Sleep Therapy",
       href: "/sleeptherapy",
-      image: "/images/blog2.webp",
+      image: "/images/somnomedic.webp",
     },
   ].map((item) => (
     <Link
