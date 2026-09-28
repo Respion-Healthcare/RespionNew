@@ -204,6 +204,101 @@ export default function Footer() {
           {/* Locations */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 xl:gap-x-16 gap-y-8">
 
+{/* ================= ODISHA ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Odisha
+              </p>
+
+              <a
+                href="tel:9937000606"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                9937000606
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                Plot No 331 A, Saheed Nagar, Bhubaneswar,
+                Odisha 751007
+              </p>
+            </div>
+
+              {/* ================= RANCHI ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Ranchi
+              </p>
+
+              <a
+                href="tel:8598000606"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                8598000606
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                Plot No 114, Old A G Colony, Kadru,
+                Ranchi, Jharkhand 834002
+              </p>
+            </div>
+
+ {/* ================= PATNA ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Patna
+              </p>
+
+              <a
+                href="tel:9937127194"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                9937127194
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                Plot No - MH 750, Sandalpur Rd, Bajrangpuri,
+                Patna, Bihar 800006
+              </p>
+            </div>
+
+             {/* ================= GUWAHATI ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Guwahati
+              </p>
+
+              <a
+                href="tel:7077718891"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                7077718891
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                House No 5, MA Path, Baninagar,
+                Guwahati, Assam 781008
+              </p>
+            </div>
+
+ {/* ================= KOLKATA ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Kolkata
+              </p>
+
+              <a
+                href="tel:7077718893"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                7077718893
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                1st Floor, 13/B, Flat No-3, Kalighat,
+                Kolkata, West Bengal 700026
+              </p>
+            </div>
+
             {/* ================= BANGALORE ================= */}
             <div>
               <p className="font-semibold text-black mb-1">
@@ -223,124 +318,6 @@ export default function Footer() {
               </p>
             </div>
 
-
-            {/* ================= ODISHA ================= */}
-            <div>
-              <p className="font-semibold text-black mb-1">
-                Odisha
-              </p>
-
-              <a
-                href="tel:9937000606"
-                className="block text-[#0391B6] font-medium mb-2 hover:underline"
-              >
-                9937000606
-              </a>
-
-              <p className="text-gray-700 leading-6">
-                Plot No 331 A, Saheed Nagar, Bhubaneswar,
-                Odisha 751007
-              </p>
-            </div>
-
-
-            {/* ================= PATNA ================= */}
-            <div>
-              <p className="font-semibold text-black mb-1">
-                Patna
-              </p>
-
-              <a
-                href="tel:9937127194"
-                className="block text-[#0391B6] font-medium mb-2 hover:underline"
-              >
-                9937127194
-              </a>
-
-              <p className="text-gray-700 leading-6">
-                Plot No - MH 750, Sandalpur Rd, Bajrangpuri,
-                Patna, Bihar 800006
-              </p>
-            </div>
-
-
-            {/* ================= KOLKATA ================= */}
-            <div>
-              <p className="font-semibold text-black mb-1">
-                Kolkata
-              </p>
-
-              <a
-                href="tel:7077718893"
-                className="block text-[#0391B6] font-medium mb-2 hover:underline"
-              >
-                7077718893
-              </a>
-
-              <p className="text-gray-700 leading-6">
-                1st Floor, 13/B, Flat No-3, Kalighat,
-                Kolkata, West Bengal 700026
-              </p>
-            </div>
-
-
-            {/* ================= RANCHI ================= */}
-            <div>
-              <p className="font-semibold text-black mb-1">
-                Ranchi
-              </p>
-
-              <a
-                href="tel:8598000606"
-                className="block text-[#0391B6] font-medium mb-2 hover:underline"
-              >
-                8598000606
-              </a>
-
-              <p className="text-gray-700 leading-6">
-                Plot No 114, Old A G Colony, Kadru,
-                Ranchi, Jharkhand 834002
-              </p>
-            </div>
-
-
-            {/* ================= GUWAHATI ================= */}
-            <div>
-              <p className="font-semibold text-black mb-1">
-                Guwahati
-              </p>
-
-              <a
-                href="tel:7077718891"
-                className="block text-[#0391B6] font-medium mb-2 hover:underline"
-              >
-                7077718891
-              </a>
-
-              <p className="text-gray-700 leading-6">
-                House No 5, MA Path, Baninagar,
-                Guwahati, Assam 781008
-              </p>
-            </div>
-
-{/* ================= Mumbai ================= */}
-            <div>
-              <p className="font-semibold text-black mb-1">
-                Mumbai
-              </p>
-
-              <a
-                href="tel:7077718891"
-                className="block text-[#0391B6] font-medium mb-2 hover:underline"
-              >
-                7077720507
-              </a>
-
-              <p className="text-gray-700 leading-6">
-                House No 36, Ground Floor, Andheri East, Mumbai, Maharashtra, 400069
-              </p>
-            </div>
-
 {/* ================= Delhi ================= */}
             <div>
               <p className="font-semibold text-black mb-1">
@@ -356,6 +333,24 @@ export default function Footer() {
 
               <p className="text-gray-700 leading-6">
                 Laxminagar, Near Sachdeva Juice Corner, New Delhi, Delhi 110092
+              </p>
+            </div>
+            
+{/* ================= Mumbai ================= */}
+            <div>
+              <p className="font-semibold text-black mb-1">
+                Mumbai
+              </p>
+
+              <a
+                href="tel:7077718891"
+                className="block text-[#0391B6] font-medium mb-2 hover:underline"
+              >
+                7077720507
+              </a>
+
+              <p className="text-gray-700 leading-6">
+                House No 36, Ground Floor, Andheri East, Mumbai, Maharashtra, 400069
               </p>
             </div>
 
