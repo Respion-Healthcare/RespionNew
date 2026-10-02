@@ -313,8 +313,7 @@ export default function Footer() {
               </a>
 
               <p className="text-gray-700 leading-6">
-                #44, 6th Phase, J. P. Nagar,
-                Bengaluru, Karnataka 560078
+               44, 17th Cross Rd, KR Layout, JP Nagar, Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078
               </p>
             </div>
 

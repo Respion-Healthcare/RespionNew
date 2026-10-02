@@ -93,11 +93,7 @@ export default function ContactPage() {
                   </h2>
 
                   <p className="text-gray-600 leading-relaxed">
-                    #44, 1st Phase,
-                    <br />
-                    J.P Nagar, Bengaluru,
-                    <br />
-                    Karnataka 560078
+                 44, 17th Cross Rd, KR Layout, JP Nagar, Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078
                   </p>
                 </div>
               </div>

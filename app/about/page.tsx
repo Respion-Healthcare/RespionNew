@@ -511,11 +511,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-sm sm:text-base text-gray-700 leading-relaxed">
-                      #44, 6th Phase,
-                      <br />
-                      J.P Nagar, Bengaluru,
-                      <br />
-                      Karnataka - 560078
+                     44, 17th Cross Rd, KR Layout, JP Nagar, Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078
                     </p>
 
                   </div>
